@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkblue_functor_template=self.webpackChunkblue_functor_template||[]).push([[883],{9616:function(e,n,t){t.r(n);var u=t(5893);n.default=function(){return(0,u.jsxs)("div",{children:[(0,u.jsx)("h1",{children:"404"}),(0,u.jsx)("p",{children:"Page not found"})]})}}}]);
+//# sourceMappingURL=component---src-pages-404-js-3d9a393bb7a89101a69a.js.map

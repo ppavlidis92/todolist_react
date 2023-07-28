@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-3d9a393bb7a89101a69a.js","mappings":"wJAOA,UAPiB,kBACb,4BACI,iCACA","sources":["webpack://blue-functor-template/./src/pages/404.js"],"sourcesContent":["const NotFound = () => (\n    <div>\n        <h1>404</h1>\n        <p>Page not found</p>\n    </div>\n);\n\nexport default NotFound;\n"],"names":[],"sourceRoot":""}
